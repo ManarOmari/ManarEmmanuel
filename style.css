@@ -32,15 +32,14 @@
     margin: 0%;
     flex-direction: column;
     align-items: center;
-    padding: 10px;
+    padding-top: 39px;
     width: 100%;
-    height: 100;
-    height: 100vh;
+    height: 300px;
     background-color: black;
     color: white;
 }
 #welcome-section>h1{
-    font-weight: 700;
+    font-weight: 800;
     font-family: 'Raleway', sans-serif;
     color: white;
 }
@@ -146,5 +145,6 @@
           padding: 2rem;
           background: #e1cdcd;
           border-top: 4px solid var(--main-red);
-          
+          font-family: sans-serif;
+
         }
